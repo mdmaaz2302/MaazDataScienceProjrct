@@ -1,1 +1,1 @@
-# MaazDataScienceProjrct
+# Data Science Exploration
